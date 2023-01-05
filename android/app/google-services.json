@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "569549369159",
+    "project_id": "pupillometre",
+    "storage_bucket": "pupillometre.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569549369159:android:ca89c2f17115a85b442662",
+        "android_client_info": {
+          "package_name": "com.talan_mobile.talan_mobile_interface"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569549369159-0hbq99cg4s39g1e7uqtdpr5tr24k10nf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzUpTLk-sdsznnkeBT0Mn1OZ3w6iHV7to"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569549369159-0hbq99cg4s39g1e7uqtdpr5tr24k10nf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
